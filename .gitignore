@@ -43,6 +43,7 @@ nosetests.xml
 coverage.xml
 *,cover
 
+/db.sqlite3
 # Translations
 *.mo
 *.pot
